@@ -24,6 +24,10 @@ Hint:
 
 4. You don't need api key for the two endpoints(get histohour data, get market cap toplist) in this task.
 
+5. volumefrom: The total amount of the symbol currency traded into the quote currency during this period of time (in unit of the symbol currency).
+
+6. volumeto: The total amount of the base currency traded into the quote currency during this period of time (in unit of the base currency).
+
 ### Optional
 
 #### 1. Modularize your code
